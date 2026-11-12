@@ -2,7 +2,7 @@
 
 ### A lightweight Python CLI application for managing students and analysing exam results.
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Storage](https://img.shields.io/badge/Storage-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Interface](https://img.shields.io/badge/Interface-CLI-6C757D?style=for-the-badge)
 
