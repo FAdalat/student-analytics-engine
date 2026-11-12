@@ -1,4 +1,3 @@
-::: {align="center"}
 # 🎓 Student Analytics Engine
 
 ### A lightweight Python CLI application for managing students and analysing exam results.
@@ -60,7 +59,7 @@ so records remain available between program runs.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/YOUR-USERNAME/student-analytics-engine.git
+git clone https://github.com/FAdalat/student-analytics-engine.git
 ```
 
 ### 2. Open the project directory
@@ -188,7 +187,5 @@ Artificial Intelligence Systems student at Vilnius Tech.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 *Built as a hands-on Python project to strengthen programming
 fundamentals.*
-:::
