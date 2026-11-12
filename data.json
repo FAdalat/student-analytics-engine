@@ -1,0 +1,32 @@
+{
+    "students": [
+        {
+            "id": "STU-001",
+            "name": "Ali",
+            "exam results": [
+                85,
+                90,
+                78
+            ]
+        },
+        {
+            "id": "STU-002",
+            "name": "Cavid",
+            "exam results": [
+                88,
+                92,
+                81
+            ]
+        },
+        {
+            "id": "STU-007",
+            "name": "JAMES",
+            "exam results": [
+                100,
+                95,
+                90,
+                100
+            ]
+        }
+    ]
+}
